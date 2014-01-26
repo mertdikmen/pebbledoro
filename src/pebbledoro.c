@@ -3,7 +3,7 @@
 #define ANIMATED true
 #define NOT_ANIMATED false
 
-#define _DEBUG
+//#define _DEBUG
 
 #ifdef _DEBUG
 #define ATOMIC_POM_DURATION 500 //milliseconds
